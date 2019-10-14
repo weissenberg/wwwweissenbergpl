@@ -1,2 +1,0 @@
-# wwwweissenbergpl
-GitHub Pages
