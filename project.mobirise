@@ -33,7 +33,10 @@
     "siteFonts": [],
     "uniqCompNum": 1,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
+    "noImageResize": "",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
