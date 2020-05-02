@@ -55,7 +55,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": 5,
+            "timeout": "3",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dji-525-2000x1125.jpeg",
@@ -69,7 +69,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://weissenberg.pl\" data-toolbar=\"-mbrBtnMove\">Weissenberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kessler.pl\" data-toolbar=\"-mbrBtnMove\">Kesller</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://weissenberg.pl\" data-toolbar=\"-mbrBtnMove\">Weissenberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kessler.pl\" data-toolbar=\"-mbrBtnMove\">Kessler</a>",
+                "overlayOpacity": "0",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dji-574-2000x1125.jpeg",
@@ -83,7 +85,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://weissenberg.pl\" data-toolbar=\"-mbrBtnMove\">Weissenberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kessler.pl\" data-toolbar=\"-mbrBtnMove\">Kesller</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://weissenberg.pl\" data-toolbar=\"-mbrBtnMove\">Weissenberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kessler.pl\" data-toolbar=\"-mbrBtnMove\">Kessler</a>",
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dji-467-2000x1125.jpeg",
@@ -97,7 +100,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://weissenberg.pl\" data-toolbar=\"-mbrBtnMove\">Weissenberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kessler.pl\" data-toolbar=\"-mbrBtnMove\">Kesller</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://weissenberg.pl\" data-toolbar=\"-mbrBtnMove\">Weissenberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kessler.pl\" data-toolbar=\"-mbrBtnMove\">Kessler</a>",
+                "overlayOpacity": "0"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dji-468-2000x1125.jpeg",
@@ -111,7 +115,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://weissenberg.pl\" data-toolbar=\"-mbrBtnMove\">Weissenberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kessler.pl\" data-toolbar=\"-mbrBtnMove\">Kesller</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://weissenberg.pl\" data-toolbar=\"-mbrBtnMove\">Weissenberg</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://kessler.pl\" data-toolbar=\"-mbrBtnMove\">Kessler</a>",
+                "overlayOpacity": "0.1"
               }
             ]
           },
